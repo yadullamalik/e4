@@ -1,0 +1,14 @@
+{
+    "meetups": [
+      {
+        "id": 1,
+        "title": "Saunter Strech",
+        "location": "bangalore",
+        "date": "2022-03-25",
+        "time": "23:59",
+        "theme": "technology",
+        "description": "Random Event",
+        "image": "https://images.unsplash.com/photo"
+      }
+    ]
+  }
